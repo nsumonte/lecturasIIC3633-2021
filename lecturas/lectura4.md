@@ -1,0 +1,8 @@
+﻿# Crítica : Content-Based Recommendation Systems
+En este artículo Michael J. Pazzani y Daniel Billsus discuten principalmente los sistemas de recomendación basados en información de contenido como la descripción de un cierto ítem o los gustos de cierto usuario. Para esto, en primer lugar los autores analizan las diversas formas de representar los ítems en este tipo de sistema, luego los algoritmos y modelos que se ajustan a estas representaciones para finalizar con una discusión acerca de otras extensiones de este tipo de modelos y con los alcances de este tipo de modelos.
+
+En primera instancia me gustaría destacar que es un artículo que es muy fácil de comprender y de seguirle el ritmo. Me parece una excelente introducción para lo que empezaremos a ver esta semana en el curso y una lectura ideal para llegar mejor preparados a la clase.
+
+Siguiendo la misma linea, me parece que es una excelente lectura para tener un primer apronte a este tipo de sistemas recomendadores. Sin embargo, me parece que el artículo es vago al momento de explicar la serie de alcances que puede tener este algoritmo y mencionan sólo como limitante el no tener la suficiente información para distinguir lo que al usuario le gusta y con ello, recomendar de buena forma ( algo que yo considero es problema en casi todos los sistemas recomendadores).
+
+Con respecto a lo anterior me parece que este tipo de sistema tiene una limitante ética importante, principalmente con respecto a la categorización del perfil del usuario. Todo esto, debido a que muchas veces la recomendación que se hace se basa en inferencias indirectas sobre el perfil de un usuario que podrían llegar a ser incorrectas e inclusive exponer al usuario a ciertas sensibilidades incorrectas que perjudiquen al mismo.
