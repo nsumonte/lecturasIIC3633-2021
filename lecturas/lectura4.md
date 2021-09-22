@@ -13,6 +13,10 @@ Por lo anteriormente mencionado me gustaria hacer mención al paper "Deep conten
 
 Para concluir, me gustaría recalcar que el articulo es una muy buena forma de acercarnos a los sistemas Recomendadores basados en contenidos, y se explica de muy buena forma como aprovechar ciertos algoritmos que se ajusten a las necesidades de cada problema y como aplicar los mismos basados en la información que se posee.
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> 985cd7090b9ef7291e363979d85028c9e01b5f34
 =======
 
 >>>>>>> 985cd7090b9ef7291e363979d85028c9e01b5f34
