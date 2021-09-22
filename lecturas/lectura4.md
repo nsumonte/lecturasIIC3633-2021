@@ -12,3 +12,7 @@ Además me parece que este tipo de sistema recomendador posee otro alcance, solo
 Por lo anteriormente mencionado me gustaria hacer mención al paper "Deep content-based music recommendation" de Aaron van den Oord, Sander Dieleman y Benjamin Schrauwen, debido que para hacer frente a los problemas que surgen del filtrado colaborativo y del content-based (en la recomendación de musica se utilizan las señales de audio) predicen factores latentes para mejorar la recomendación. Esto, debido a que existe una gran brecha semántica entre las características de una canción que afectan la preferencia del usuario y la señal de audio correspondiente.
 
 Para concluir, me gustaría recalcar que el articulo es una muy buena forma de acercarnos a los sistemas Recomendadores basados en contenidos, y se explica de muy buena forma como aprovechar ciertos algoritmos que se ajusten a las necesidades de cada problema y como aplicar los mismos basados en la información que se posee.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 985cd7090b9ef7291e363979d85028c9e01b5f34
