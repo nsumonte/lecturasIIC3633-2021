@@ -1,0 +1,14 @@
+﻿# Crítica : Deep learning based recommender system: A survey and new perspectives
+
+En este paper, Zhang S., Yao L., Sun A., Tay Y., realizan una revisión de investigaciones recientes en cuanto a sistemas recomendadores que se basan en el aprendizaje profundo (una rama del *machine learning*). Para esto, los autores describen detalladamente algunos modelos de sistemas de recomendación basados en el aprendizaje profundo y también realizan una revisión del estado del arte de los mismos. Finalmente, muestran y detallan las tendencias actuales en cuanto a estos sistemas, brindan nuevas formas de mirarlos y desafíos que se tienen a futuro para mejorar la perspectiva con que se están estudiando estos sistemas y así mejorar el rendimiento de los mismos.
+
+En primer lugar me parece que los autores realizan un gran trabajando de recopilación de información para entregar un buen resumen de las tendencias en el campo del aprendizaje profundo y los sistemas recomendadores. Me parece que hacen un resumen preciso de la visión y contenido de las investigaciones actuales, así como también son certeros al expresar las ventajas y limitaciones de las mismas. También creo que muestran de buena manera cuales son los actuales desafíos y problemas en el campo, como también así dan buenas directrices de cómo enfocar las futuras investigaciónes y reinterpretar los problemas basándose en las nuevas tendencias. 
+
+Sin embargo, me parece que se quedan un poco cortos al momento de expresar cual es la necesidad de explicar y ampliar el campo en cuanto a los sistemas de recomendación basados en aprendizaje profundo (más que el aprendizaje profundo sea de popularidad actual). Me parece que debieron haber hecho más ventajas comparativas relacionadas con otras áreas del campo para terminar de comprender porqué métodos que tienen limitantes como la fijación de hiperparametros, ciertas dificultades de interpretabilidad y la necesidad de información robusta es mejor que otros sistemas o el porqué se debiese seguir ampliando esta área.
+
+También me parece que debieron haber explicitado de manera más profunda las formas de poder sortear los problemas mencionados en el párrafo anterior. Soluciones como  Grid Search, Random Search y la optimización Bayesiana son algunos métodos que nos permiten encontrar hiperparametros de los modelos, salir un poco de la "caja negra" que a veces tienen que sortear los modelos de aprendizaje profundo para después volver a entrar a la misma, pero con un poco más de información acerca del medio y optimización del mismo.
+
+Finalmente me gustaría resaltar el trabajo realizado por los autores en cuanto a futuras direcciones de nuevos proyectos en el área ya que plantean de forma interesante como seguir estudiando el campo y nos da ciertas directrices para problemáticas a plantear en nuestro proyecto.
+
+
+
